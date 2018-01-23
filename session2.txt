@@ -1,0 +1,5 @@
+1.Printing name
+2.If-else
+3.Assingning distiction,first class,second class,fail using if else
+4.Arithmetric operations
+5.To find a random number
